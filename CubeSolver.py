@@ -223,7 +223,7 @@ class ARCS():
                 
                 self.move_cube(j)
                 self.display()
-                time.sleep(1)
+                time.sleep(3)
             
             print("Formula used :", end=" ")
             for j in formula:
